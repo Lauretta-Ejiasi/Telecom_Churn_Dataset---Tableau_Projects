@@ -1,2 +1,2 @@
-# Tableau
+# Churn Dashboard
 Churn Dashboard
