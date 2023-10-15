@@ -24,3 +24,6 @@ These visualizations were used to generate KPIs such as:
 - Churn by Services etc.
 
 Overall, this Tableau project demonstrates my proficiency in working with raw data, cleaning and filtering data, generating insights and KPIs using Tableau, and presenting data in a visually appealing and informative manner.
+
+**Actual dashboard can be viewed on Tableau Public via the link below.**
+https://public.tableau.com/app/profile/lauretta.ejiasi/viz/TelecomChurnDataset_16890842489100/ChurnDashboard?publish=yes
